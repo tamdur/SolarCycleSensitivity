@@ -1,0 +1,70 @@
+predictor_likelihood_10_05: Contains lag sensitivities and relative likelihoods 
+                for 48 combinations of predictors in an MLR model applied to 
+                HadCRUT4 ensemble.
+
+cmdhistlong124_21_09_20: Contains structure file of CMD-analyzed CMIP5
+                control output with fields numSeries (number of sensitivity 
+                estimates extracted from control run), correlations (correlation 
+                coefficient of CMD projection time series with
+                TSI record), sensitivities (response coefficient of CMD projection
+                time series with TSI record), regSeries (projection time series found for
+                run), cmdSet (zonal-mean composite mean difference fields 
+                calculated for run, path (nc file from which analysis was run,
+                contains information on experiment source).
+
+cmipmlrcontrol18822005_05_10_20: Contains structure file of MLR-analyzed CMIP5 control
+                output with fields bMat (response coefficients for predictors
+                constant, TSI, Anthropogenic, Volcanism, ENSO), bIntMat 
+                (regression error for response coefficient estimates), vPMat
+                (variance in monthly temperature anomalies explained by MLR model),
+                pathTas (filename of TAS output used), pathTos (filename of TOS
+                output used for Niño 3.4 calculation), T (global monthly tempearture
+                anomalies), lags (lags, in months, found to maximize explained variance).
+                Number of rows in bMat reflects the number of sensitivity estimates 
+                calculated using overlapping subsets of the full control run.
+
+
+cmipreghist18822005_06_10_20: Contains structure file of MLR-analyzed CMIP5 historical
+                output with fields bMat (response coefficients for predictors
+                constant, TSI, Anthropogenic, Volcanism, ENSO), bIntMat 
+                (regression error for response coefficient estimates), vPMat
+                (variance in monthly temperature anomalies explained by MLR model),
+                pathTas (filename of TAS output used), pathTos (filename of TOS
+                output used for Niño 3.4 calculation), T (global monthly tempearture
+                anomalies), Tp (global monthly temperature anomalies predicted by
+                MLR model, lags (lags, in months, found to maximize explained variance).
+
+
+controllong124blocklarge_9_21_20: Contains structure file of CMD-analyzed CMIP5
+                control output with fields numSeries (number of sensitivity 
+                estimates extracted from control run), correlations (correlation 
+                coefficient of CMD projection time series with
+                TSI record), sensitivities (response coefficient of CMD projection
+                time series with TSI record), seriesSet (projection time series found for
+                each subset), cmdSet (zonal-mean composite mean difference fields 
+                calculated for each subset, path (nc file from which analysis was run,
+                contains information on experiment source).
+
+likelihoodlags_151020: Contains arrays of relative likelihoods and temperature 
+		sensitivities for 48 combinations of MLR predictor models, with predictors 
+		listed in mlrsensitivity.m specified by the "choices" array. Produced 
+		for 1882-2019.
+
+LR08to2019: Predictor array, temperature time series, and sensitivity estimates for 
+		the LR08 model extended through 2019.
+
+predictor_likelihood_10_15: Contains arrays of relative likelihoods and temperature 
+		sensitivities for 48 combinations of MLR predictor models, with predictors 
+		listed in mlrsensitivity.m specified by the "choices" array. Produced 
+		for CMIP5 historical interval of 1882-2005.
+
+predictor_likelihoodcmip_10_15: 
+
+running_record_ann_21_10: output produced by calcfig4.m
+
+table2outputs2019: Sensitivity outputs used in Table 2 of ASH20.
+
+vol: Sigl et al. derived volcanic emissions record used to exclude years following volcanic 
+		eruptions in cmdsensitivity.m analysis.
+
+

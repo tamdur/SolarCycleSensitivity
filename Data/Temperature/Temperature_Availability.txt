@@ -1,0 +1,18 @@
+/Fields
+
+GISTEMP Surface Temperature Analysis: http://data.giss.nasa.gov/gistemp/
+
+HadCRUT4:https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/download.html
+
+HadCRUT3: https://www.metoffice.gov.uk/hadobs/hadcrut3/data/download.html
+
+NCEP Reanalysis: https://psl.noaa.gov/data/gridded/data.ncep.reanalysis.derived.surface.html
+
+/Time_series
+
+Berkeley Earth: Both land and land+ocean downloaded from 
+http://berkeleyearth.org/data-new/
+
+HadCRUT4: Both median ensemble temperature reconstruction downloaded from https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/download.html
+
+HadCRUT3: https://www.metoffice.gov.uk/hadobs/hadcrut3/data/download.html

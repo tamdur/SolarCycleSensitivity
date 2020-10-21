@@ -1,0 +1,10 @@
+  AMO unsmoothed from the Kaplan SST V2
+  Calculated at NOAA PSL1
+  http://www.psl.noaa.gov/data/timeseries/AMO/
+
+HadSST AMO: http://climexp.knmi.nl/getindices.cgi?WMO=UKMOData/amo_hadsst_ts&STATION=AMO_hadsst&TYPE=i&id=someone@somewhere
+Note: AMO index SST EQ-60N, 0-80W minus SST 60S-60N, as in Trenberth and Shea 2006
+
+
+ERSST v5 AMO: http://climexp.knmi.nl/getindices.cgi?WMO=NCDCData/amo_ersst&STATION=AMO_ersst&TYPE=i&id=someone@somewhere
+AMO index SST 25-60N, 7-75W minus regression on global mean temperature, as in van Oldenborgh et al 2009

@@ -1,0 +1,13 @@
+NRLTSI: https://data.nodc.noaa.gov/cgi-bin/iso?id=gov.noaa.ncdc:C00828
+doi:10.7289/V55B00C1
+Downloaded by: wget -r --no-parent https://www.ncei.noaa.gov/data/total-solar-irradiance/access/monthly/
+wget -r --no-parent https://www.ncei.noaa.gov/data/total-solar-irradiance/access/yearly/ -A.nc
+
+SOLARIS-HEPPA: downloaded from
+https://solarisheppa.geomar.de/solarisheppa/sites/default/files/data/cmip6/solarforcing-ref-mon_input4MIPs_solar_CMIP_SOLARIS-HEPPA-3-2_gn_18500101-22991231.nc.gz
+
+
+WLS and Lean 2000: downloaded from
+https://solarisheppa.geomar.de/solarisheppa/sites/default/files/data/CMIP5/TSI_WLS_mon_1882_2008.txt
+
+

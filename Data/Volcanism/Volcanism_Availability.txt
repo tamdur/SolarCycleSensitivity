@@ -1,0 +1,4 @@
+Sato 550nm optical depth: https://climexp.knmi.nl/getindices.cgi?WMO=NASAData/saod_gl&STATION=stratospheric_AOD&TYPE=i&id=someone@somewhere
+From https://data.giss.nasa.gov/modelforce/strataer/
+
+

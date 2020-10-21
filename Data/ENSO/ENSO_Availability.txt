@@ -1,0 +1,8 @@
+Niño 3.4 ERSST v5: https://climexp.knmi.nl/getindices.cgi?WMO=NCDCData/ersst_nino3.4a_rel&STATION=NINO3.4_rel&TYPE=i&id=someone@somewhere
+
+Had1SST: https://climexp.knmi.nl/getindices.cgi?WMO=UKMOData/hadisst1_nino3.4a&STATION=NINO3.4&TYPE=i&id=someone@somewhere
+
+Extended MEI: https://psl.noaa.gov/enso/mei.ext/
+MEI 1950 to present: http://climexp.knmi.nl/getindices.cgi?WMO=NOAAData/meiv2&STATION=MEIv2&TYPE=i&id=someone@somewhere
+
+Kaplan: https://psl.noaa.gov/data/gridded/data.kaplan_sst.html
